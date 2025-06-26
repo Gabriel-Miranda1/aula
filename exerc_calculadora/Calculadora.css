@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(27, 26, 26, 0.964);
+}
+
+h1{
+    text-align: center;
+    color: azure;
+}
+hr{
+    color: azure;
+}
+
+form{
+    color: azure;
+    text-align: center;
+}
